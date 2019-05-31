@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GPA Calculator</string>
+    <string-array name="grade">
+        <item>Grade</item>
+        <item>S</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+</resources>
